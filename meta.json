@@ -1,0 +1,23 @@
+{
+  "repo": "civilization-vi-platinum-edition",
+  "product": "Civilization VI Platinum Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "civilization-vi-platinum",
+    "civilization-vi",
+    "how-to-install-civilization-vi",
+    "how-to-setup-civilization-vi",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "civilization-platinum",
+    "civilization-vi-platinum-edition"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Civilization VI Platinum Edition"
+}
